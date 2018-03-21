@@ -11,7 +11,7 @@ public class NMK {
             System.out.println(-1);
         } else {
             if (increaseLength == 1) {
-                
+
             }
         }
     }
